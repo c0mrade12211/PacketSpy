@@ -12,5 +12,5 @@ Advantages of this program:
 3. Integration with Wireshark: After completing the packet capture, the program automatically opens the pcap file in Wireshark, allowing users to study and analyze network traffic in more detail.  
 
 
-#Compile  
+# Compile  
 1. build -o Give_me_Packets.exe ./main.go  
