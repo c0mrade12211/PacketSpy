@@ -13,4 +13,7 @@ Advantages of this program:
 
 
 # Compile  
-1. build -o Give_me_Packets.exe ./main.go  
+1. build -o Give_me_Packets.exe ./main.go
+
+   
+![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/71acc74c-8326-450e-9b4a-ffea2e58b2af)
