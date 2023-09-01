@@ -1,4 +1,4 @@
-# Give_Me_Packets  
+# PacketSpy 
 Hello! This program is a simple packet sniffer written in the Go programming language. It allows the user to capture and save network packets passing through a selected network device.    
   
 Who might need this program? It is useful for developers, system administrators, and anyone who wants to study and analyze network traffic. The program provides a simple and convenient way to capture packets and save them in the pcap format, which can be further analyzed using the Wireshark program.  
