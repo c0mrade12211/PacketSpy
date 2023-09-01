@@ -21,3 +21,6 @@ Advantages of this program:
 1) Capture packets and open in WireShark  
 ![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/6abfd1ff-d422-4efd-adaf-f4fed3feefd1)   
 ![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/71acc74c-8326-450e-9b4a-ffea2e58b2af)
+2) Also you're can to send pcap file in the server (command for save file: nc -l -p <port> > output.pcap)  
+![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/a79bc27a-c73d-4e5b-a85d-369c485cdd63)
+![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/1a1cf675-b136-4061-b9c6-1c9ee3018c58)
