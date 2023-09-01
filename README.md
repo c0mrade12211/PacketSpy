@@ -15,5 +15,9 @@ Advantages of this program:
 # Compile  
 1. build -o Give_me_Packets.exe ./main.go
 
+
+
+# Example   
+1) Capture packets and open in WireShark  
 ![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/6abfd1ff-d422-4efd-adaf-f4fed3feefd1)   
 ![image](https://github.com/c0mrade12211/Give_Me_Packets/assets/132468035/71acc74c-8326-450e-9b4a-ffea2e58b2af)
