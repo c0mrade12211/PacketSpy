@@ -1,4 +1,9 @@
 # PacketSpy 
+
+![image](https://github.com/c0mrade12211/PacketSpy/assets/132468035/cf7bf380-afbc-4868-a77a-9ebcdccdf4aa)
+
+
+
 Hello! This program is a simple packet sniffer written in the Go programming language. It allows the user to capture and save network packets passing through a selected network device.    
   
 Who might need this program? It is useful for developers, system administrators, and anyone who wants to study and analyze network traffic. The program provides a simple and convenient way to capture packets and save them in the pcap format, which can be further analyzed using the Wireshark program.  
